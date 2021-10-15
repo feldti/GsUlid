@@ -1,0 +1,16 @@
+{
+	"category" : "MSKUlid",
+	"classinstvars" : [
+		"singleton" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"randomValue",
+		"randomCounter",
+		"lastMillisecondsValue" ],
+	"name" : "MSKULIDGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

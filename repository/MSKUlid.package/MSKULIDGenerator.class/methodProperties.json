@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"singleton" : "MSK 10/14/2021 08:40" },
+	"instance" : {
+		"generate" : "MSK 10/14/2021 08:40",
+		"generate:" : "MSK 10/14/2021 08:40",
+		"generateFromMilliseconds:random:" : "MSK 10/14/2021 08:40",
+		"generateValue" : "MSK 10/14/2021 08:40",
+		"generateValue:random:" : "MSK 10/14/2021 08:40",
+		"randomValue" : "MSK 10/14/2021 08:40" } }
