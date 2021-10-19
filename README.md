@@ -4,7 +4,7 @@ Ulid ID Generation
 
 ## Installation
 
-You can load GsZMQ using Metacello
+You can load GsUlid using Metacello
 
 ```Smalltalk
 Metacello new
