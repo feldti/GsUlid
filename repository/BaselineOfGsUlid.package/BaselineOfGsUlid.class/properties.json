@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfGsUlid",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGsUlid",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
