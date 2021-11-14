@@ -13,9 +13,13 @@ baseline: spec
 						repository: 'github://feldti/GsMultibase:main/repository' ];
 				yourself.
 
+			spec
+				baseline: 'Cryptography'
+   				with: [ spec repository: 'github://GsDevKit/Cryptography:master/repository' ].
+
 			"Now the actual delivered packages"
 			spec
-				package: 'MSKUlid';
+				package: 'MSKUlid' with: [ spec requires: #('GsMultibase' 'Cryptography') ] ;
 				yourself.
 
 			"Now the names for more specific loading"
